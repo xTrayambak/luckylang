@@ -1,0 +1,7 @@
+Specification/Fundamentals
+
+- Every program must have an entry point called `main`.
+- Every variable must be strictly typed, and values must not change unexpectedly at runtime.
+- There must be no mutex.
+- The language must be as easy to read/write as possible whilst maintaining the speeds of C.
+- LLVM must be used to ensure compatibility with Rustlang, NVIDIA CUDA, etc.

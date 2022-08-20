@@ -1,0 +1,14 @@
+Keywords
+
+while: Start a loop.
+For eg.
+
+```
+while (true) {
+    printf('Looped!\n')
+}
+```
+
+break: Break out of a loop.
+continue: Skip further execution of this iteration, but don't break the loop.
+return: Make a function return a value.

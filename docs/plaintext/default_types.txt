@@ -1,0 +1,8 @@
+Default/builtin types
+
+int: 64-bit signed integer
+float: 32-bit signed float
+char: 8-bit character [TODO: Implement unicode]
+bool: 1-bit logical value
+null: a non-existent value
+

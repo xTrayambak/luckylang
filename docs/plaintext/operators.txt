@@ -1,0 +1,8 @@
+Mathematical operators
+
+Basic:
++ (Addition)
+- (Subtraction)
+* (Multiplication)
+/ (Division)
+^ (Power of, not bitwise XOR like Python)
